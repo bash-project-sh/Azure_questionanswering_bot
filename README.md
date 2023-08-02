@@ -2,6 +2,11 @@
 
 This is a simple chatbot using Python & Azure cloud services(Speech, QuestionAnswering)
 
+# Features
+1. Using Azure Speech service to convert voice message to text
+2. Answering with predefined answers in Azure Question Answering service
+3. Answering both in voice and text
+
 # How to use
 1. Python 3.11.4
 ```
